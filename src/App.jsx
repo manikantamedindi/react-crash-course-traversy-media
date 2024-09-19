@@ -7,10 +7,8 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <Hero title="Become a React Dev" subTitle="Find the React job that fits your skills and needs
-" />
+      <Hero />
       <HomeCards />
-
       <JobListings />
       <ViewAllJobs />
     </>
